@@ -1,0 +1,30 @@
+@charset "ISO-8859-1";
+fieldset {
+	padding: 50px;
+}
+
+label {
+	display: inline-block;
+	margin-bottom: 25px;
+}
+
+input {
+	float:none;
+	margin-left:70px;
+	width:150px;
+}
+
+input:invalid{
+	background-color:silver;
+}
+
+body{
+	color: blue;
+}
+
+
+
+
+
+
+
